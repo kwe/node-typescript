@@ -15,7 +15,7 @@
     "typescript": "^4.5.5"
   },
   "scripts": {
-    "serve": "nodemon app.ts",
+    "start": "nodemon app.ts",
     "test": "cross-env NODE_ENV=test jest --testTimeout=10000"
   },
   "dependencies": {
