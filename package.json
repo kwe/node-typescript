@@ -19,6 +19,6 @@
     "test": "cross-env NODE_ENV=test jest --testTimeout=10000"
   },
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.3"
   }
 }
